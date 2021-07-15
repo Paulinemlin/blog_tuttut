@@ -27,7 +27,7 @@
     "strapi-plugin-graphql": "3.6.5"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Pauline Emmelin"
   },
   "strapi": {
     "uuid": "60dd1fa1-b993-4faa-bde2-c04df471ca1f",
